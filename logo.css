@@ -1,0 +1,84 @@
+.lozi{
+
+background-color: red;
+width: 200px;
+height: 200px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+position: relative;
+top: 200px;
+transform: rotate(45deg);
+
+}
+
+.dayere1{
+    background-color: red;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: -70px;
+    left: -70px;
+
+}
+
+.dayere2{
+    background-color: red;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: -270px;
+    left: 70px;
+
+}
+
+.squar1{
+
+    background-color: rgb(255, 0, 76);
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: -150px;
+    left: -150px;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-style: solid;
+    border-color: rgb(226, 43, 156);
+    border-width: 20px;
+    transform: rotate(45deg);
+}
+
+
+.squar2{
+
+    background-color: rgb(255, 0, 76);
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: -380px;
+    left:158.5px;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-style: solid;
+    border-color:  rgb(226, 43, 156);
+    border-width: 20px;
+    transform: rotate(228.5deg);
+}
+
+
